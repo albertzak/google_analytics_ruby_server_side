@@ -1,6 +1,6 @@
-# Google Analytics server-side ruby wrapper
+# GA + Ruby + Server-side
 
-[https://developers.google.com/analytics/devguides/collection/protocol/v1/devguide]()
+https://developers.google.com/analytics/devguides/collection/protocol/v1/devguide
 
 ## Usage
 
