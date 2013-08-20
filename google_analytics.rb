@@ -2,7 +2,7 @@ class GoogleAnalytics
 
   def initialize(profile)
     @version = 1
-    @profile = "UA-XXXXXXXX-X"
+    @profile = profile || "UA-XXXXXXXX-X"
     @endpoint = "http://www.google-analytics.com/collect"
   end
 
